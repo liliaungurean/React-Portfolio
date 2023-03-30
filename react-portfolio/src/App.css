@@ -1,9 +1,9 @@
 :root {
-  --main: #fffffe;
-  --stroke:  #BB0A21;
+  --main: #060606;
+  --stroke:  #000000;
   --primary: #01BAEF;
-  --secondary: #fffffe;
-  --tertiary: #BB0A21;
+  --secondary: #040404;
+  --tertiary: #000000;
 
 }
 
@@ -30,7 +30,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 .App-link {
