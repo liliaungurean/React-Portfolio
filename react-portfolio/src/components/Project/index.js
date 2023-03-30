@@ -27,10 +27,10 @@ const Projects = ({ singleProject }) => {
       key={singleProject.title} className="col-3"
     >
     
-      <Card.Title style={{ margin: "15px", fontSize: "27px", color: "#094067"}}>
+      <Card.Title style={{ margin: "15px", fontSize: "27px", color: "#094067", backgroundColor: "#A9A9A9" }}>
         {singleProject.title}
       </Card.Title>
-      <Card.Text className="mb-2 text-white" style={{ fontSize: "15px", margin: "20px 0px 20px 10px" }}>{singleProject.summary}</Card.Text>
+      <Card.Text className="mb-2 text-black" style={{ fontSize: "15px", margin: "20px 0px 20px 10px", backgroundColor: "#A9A9A9" }}>{singleProject.summary}</Card.Text>
       <Card.Img
         variant="top"
         src={singleProject.image}
@@ -38,9 +38,9 @@ const Projects = ({ singleProject }) => {
         style={{ position: "relative" }}
       />
       <Card.Body style={{ backgroundColor: "#A9A9A9"}}>
-        <Card.Text style={{ fontSize: "17px" }} className="text-black">
+        <Card.Text style={{ fontSize: "17px", backgroundColor: "#A9A9A9" }} className="text-black">
           {"Built with: "}
-          <Card.Text style={{ fontSize: "15px" }} className="text-muted">{singleProject.technologies}</Card.Text>
+          <Card.Text style={{ fontSize: "15px", backgroundColor: "#A9A9A9",  }} className="text-muted">{singleProject.technologies}</Card.Text>
         </Card.Text>
       </Card.Body>
       <Card.Footer
@@ -50,14 +50,14 @@ const Projects = ({ singleProject }) => {
         }}
       >
         <a href={singleProject.github} target="_blank" rel="noreferrer" className="card-text">
-          <FaGithub style={{ fontSize: "30px" }}/>
+          <FaGithub style={{ fontSize: "30px", backgroundColor: "#A9A9A9" }}/>
         </a>
         <a
           href={singleProject.deployedLink}
           target="_blank" rel="noreferrer"
           className="card-text"
         >
-          <FaExternalLinkAlt style={{ fontSize: "25px" }}/>
+          <FaExternalLinkAlt style={{ fontSize: "25px", backgroundColor: "#A9A9A9" }}/>
         </a>
       </Card.Footer>
        {/* <div>

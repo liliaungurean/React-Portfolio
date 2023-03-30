@@ -20,7 +20,6 @@ import {
   SiWebpack,
   SiRedux,
   SiReactrouter,
-  SiGraphql,
 } from "react-icons/si";
 import { Container, Row, Col } from "react-bootstrap";
 
@@ -98,10 +97,6 @@ function Resume() {
             <DiMongodb />
           </h5>
           <h5>• REST</h5>
-          <h5>
-            • GraphQL
-            <SiGraphql />
-          </h5>
         </Col>
       </Row>
 

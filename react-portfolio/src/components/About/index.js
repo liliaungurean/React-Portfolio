@@ -1,7 +1,6 @@
 import React from "react";
 import PortfolioImage from "../../assets/Lilia-Ungurean.png";
 import {
-  FaGitAlt,
   FaGithub,
   FaHtml5,
   FaCss3Alt,
@@ -16,9 +15,7 @@ import {
   SiMysql,
   SiHeroku,
   SiWebpack,
-  SiRedux,
-  SiReactrouter,
-  SiGraphql,
+  AiOutlineConsoleSql,
 } from "react-icons/si";
 
 function About() {
@@ -49,15 +46,12 @@ function About() {
           <h2>
             <FaHtml5 />
             <FaCss3Alt />
-            <FaJsSquare />
             <DiJqueryLogo />
             <FaReact />
-            <SiRedux />
             <FaBootstrap />
             <FaNode />
             <SiMysql />
             <DiMongodb />
-            <SiGraphql />
           </h2>
         </div>
       </div>

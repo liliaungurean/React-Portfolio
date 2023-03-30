@@ -242,10 +242,8 @@ textarea {
 .card {
   width: 25%;
   text-align: center;
-  background-color: #000000;
 }
 .card-body{
-  background-color: #000000;
   color: #fff;
 }
 

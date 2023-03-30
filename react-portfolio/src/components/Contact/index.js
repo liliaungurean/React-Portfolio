@@ -59,7 +59,7 @@ function ContactForm() {
   return (
     <section>
       <h1 data-testid="h1tag">Reach me</h1>
-      <a href="mailto:lilichika95@gmail.com">@lilicikau95@gmail.com</a>
+      <a href="mailto:lilichika95@gmail.com">Email: lilicikau95@gmail.com</a>
       {/* <br></br>
       <h1 data-testid="h1tag">Leave a Message</h1>
       <form id="contact-form" onSubmit={handleSubmit}>
