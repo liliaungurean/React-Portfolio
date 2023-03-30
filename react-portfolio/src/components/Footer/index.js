@@ -1,6 +1,6 @@
 import React from "react";
 import { IconContext } from "react-icons/lib";
-import { FaGithub, FaEnvelope, FaLinkedin, FaStackOverflow } from "react-icons/fa";
+import { FaGithub, FaEnvelope, FaLinkedin,} from "react-icons/fa";
 import { Container, Row, Col } from "react-bootstrap";
 
 function Footer() {

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { validateEmail } from "../../utils/helpers";
+//import { validateEmail } from "../../utils/helpers"
 
 function ContactForm() {
   // Hook that manages form data
@@ -11,7 +11,7 @@ function ContactForm() {
   });
 
   // Hook that manages email error message
-  const [errorMessage, setErrorMessage] = useState("");
+  const [errorMessage, ] = useState("");
   // destructure formState obj into its properties
   const { name, email, message } = formState;
 
