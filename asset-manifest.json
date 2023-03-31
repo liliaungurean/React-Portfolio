@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/liliaungurean/React-Portfolio/static/css/main.59dd4660.css",
-    "main.js": "/liliaungurean/React-Portfolio/static/js/main.0556520b.js",
-    "static/js/787.a2cb61a6.chunk.js": "/liliaungurean/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/Lilia-Ungurean.png": "/liliaungurean/React-Portfolio/static/media/Lilia-Ungurean.c42c5de91f703f54442a.png",
-    "static/media/evenster.png": "/liliaungurean/React-Portfolio/static/media/evenster.7b5f17bb47de9dd3bfe0.png",
-    "static/media/enjoy.png": "/liliaungurean/React-Portfolio/static/media/enjoy.c5bb179e1a8199656221.png",
-    "static/media/weatherdashboard.png": "/liliaungurean/React-Portfolio/static/media/weatherdashboard.707ae5dc64d4cdb157ea.png",
-    "static/media/blog.png": "/liliaungurean/React-Portfolio/static/media/blog.edf6716f30097e5aa465.png",
-    "static/media/workdayscheduler.png": "/liliaungurean/React-Portfolio/static/media/workdayscheduler.b467cf9f34db99207567.png",
-    "static/media/orm.png": "/liliaungurean/React-Portfolio/static/media/orm.daf4ba363b8ace9866bf.png",
-    "static/media/password.png": "/liliaungurean/React-Portfolio/static/media/password.1d1c320b3f4f4c9b3759.png",
-    "static/media/notetaker.png": "/liliaungurean/React-Portfolio/static/media/notetaker.0d8c17003c8cbca7dca5.png",
-    "static/media/Resume.pdf": "/liliaungurean/React-Portfolio/static/media/Resume.d3ab2a3a29c908be300f.pdf",
-    "index.html": "/liliaungurean/React-Portfolio/index.html",
-    "main.59dd4660.css.map": "/liliaungurean/React-Portfolio/static/css/main.59dd4660.css.map",
-    "main.0556520b.js.map": "/liliaungurean/React-Portfolio/static/js/main.0556520b.js.map",
-    "787.a2cb61a6.chunk.js.map": "/liliaungurean/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/static/css/main.59dd4660.css",
+    "main.js": "/static/js/main.eaeff94a.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Lilia-Ungurean.png": "/static/media/Lilia-Ungurean.c42c5de91f703f54442a.png",
+    "static/media/evenster.png": "/static/media/evenster.7b5f17bb47de9dd3bfe0.png",
+    "static/media/enjoy.png": "/static/media/enjoy.c5bb179e1a8199656221.png",
+    "static/media/weatherdashboard.png": "/static/media/weatherdashboard.707ae5dc64d4cdb157ea.png",
+    "static/media/blog.png": "/static/media/blog.edf6716f30097e5aa465.png",
+    "static/media/workdayscheduler.png": "/static/media/workdayscheduler.b467cf9f34db99207567.png",
+    "static/media/orm.png": "/static/media/orm.daf4ba363b8ace9866bf.png",
+    "static/media/password.png": "/static/media/password.1d1c320b3f4f4c9b3759.png",
+    "static/media/notetaker.png": "/static/media/notetaker.0d8c17003c8cbca7dca5.png",
+    "static/media/Resume.pdf": "/static/media/Resume.d3ab2a3a29c908be300f.pdf",
+    "index.html": "/index.html",
+    "main.59dd4660.css.map": "/static/css/main.59dd4660.css.map",
+    "main.eaeff94a.js.map": "/static/js/main.eaeff94a.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59dd4660.css",
-    "static/js/main.0556520b.js"
+    "static/js/main.eaeff94a.js"
   ]
 }
