@@ -3,13 +3,13 @@
 ## Description
 This page was created to give you an insight on my background education, work experience and just an overall insight about me. This challenged me to create a user-friendly page where you are able see previous projects that I have worked on, my resume, and sudying bakcground. This was created with react 
 
-## Deployed Web-page
+## Deployed-Web-page
 
 ## Table of Contacts
 
 - [Desription](#Description)
 - [Installation](#Installation)
-- [Deployed Web-page](#Deployed Web-page)
+- [Deployed-Web-page](#Deployed-Web-page)
 - [Credits](#Credits)
 - [License](#License)
 
