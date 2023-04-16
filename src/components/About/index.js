@@ -25,14 +25,14 @@ function About() {
         <div className="col-6">
           <img
             src={PortfolioImage}
-            className="my-2"
-            style={{ width: "60%" }}
+            className="portrait my-2"
+            style={{ width: "50%" }}
             alt="cover"
           ></img>
         </div>
         <div className="col-6">
           <h1 id="about">About me</h1>
-          <h6 style={{ width: "80%", justifyContent: "center" }} id="about">
+          <h6 style={{ width: "fit-content", justifyContent: "center" }} id="about">
                 Hi, My name is Lilia Ungurean. I am a full-stack software engineer 
                 graduation from cooding boot-camp at the Univerisy of Minnesota. 
                 This has provided me with great understading and competent in 
@@ -42,17 +42,20 @@ function About() {
           <br></br>
           <br></br>
           <br></br>
-          <h4>Technical Skills:</h4>
-          <h2>
-            <FaHtml5 />
-            <FaCss3Alt />
-            <DiJqueryLogo />
-            <FaReact />
-            <FaBootstrap />
-            <FaNode />
-            <SiMysql />
-            <DiMongodb />
-          </h2>
+          <div className="skills">
+            <h4>Technical Skills:</h4>
+            <h2>
+              <FaHtml5 />
+              <FaCss3Alt />
+              <DiJqueryLogo />
+              <FaReact />
+              <FaBootstrap />
+              <FaNode />
+              <SiMysql />
+              <DiMongodb />
+            </h2>
+          </div>
+          
         </div>
       </div>
     </div>
