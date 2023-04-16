@@ -9,6 +9,7 @@ import blog from "../../../src/assets/Images/blog.png";
 import notetaker from "../../../src/assets/Images/notetaker.png";
 import weatherdashboard from "../../../src/assets/Images/weatherdashboard.png";
 import workdayscheduler from "../../../src/assets/Images/workdayscheduler.png";
+import workout from "../../assets/Images/workout.png"
 
 const Portfolio = (singleProject) => {
 
@@ -28,6 +29,14 @@ const Portfolio = (singleProject) => {
       technologies: "JavaScript, Node.js, Express.js, Handlebars.js, MySQL, Sequelize, Heroku, Shell",
       deployedLink: "https://lit-wave-65693.herokuapp.com/",
       github: "https://github.com/liliaungurean/Enjoy-The-Bite",
+    },
+    {
+      title: "Just 2 More",
+      summary: "Evenster was created to allow the user to input in a city and receive a list of events and the weather in and around the area.",
+      image: workout,
+      technologies: "JavaScript, React, React-Bootsrtap, Heroku, GitHub Pages, CSS",
+      deployedLink: "",
+      github: "https://github.com/Akshatha2022/WorkoutTrackerApp",
     },
     {
       title: "ORM-E-commerce-Back-End",
